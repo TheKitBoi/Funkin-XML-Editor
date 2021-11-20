@@ -1,3 +1,4 @@
+idk
 # FunkyXML Editor
 ### For use with the game 'Friday Night Funkin' as a modding tool.
 
